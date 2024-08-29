@@ -39,7 +39,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gisersqdai.top/mycv/authors/admin/avatar_huf319640d8976654dfc26f068ada2e9d5_693905_250x250_fill_q90_lanczos_center.jpg" align="center" style="width: 100%" />
+<img src="https://5b0988e595225.cdn.sohucs.com/images/20200114/ed41739e6ccb4576877c4b05895e5ba5.gif" align="center" style="width: 100%" />
 </div>  
 
 
