@@ -27,10 +27,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Wuhan University](http://jszy.whu.edu.cn/jp/zh_CN/index.htm)  
+- 🔭 I’m currently working on [Wuhan University](http://jszy.whu.edu.cn/jp/zh_CN/article/1397966/content/1865.htm#article)  
   
 
 - ❓ Ask me about anything related to GIS and health-related technologies  
+  
+
+- 🌍 Personal website: [Homepage](https://gisersqdai.top/mycv/)  
   
 
 - ⚡ Contact me: dsq1993qingge@163.com  
