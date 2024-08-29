@@ -7,7 +7,7 @@
 <a href="https://twitter.com/DaiShaoqing" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Shaoqing Dai" target="_blank">
+<a href="https://www.linkedin.com/in/shaoqing-dai-2ab7b6182/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/Shaoqing Dai " target="_blank">
