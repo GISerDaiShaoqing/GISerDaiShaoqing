@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
- I am a postdoc fellow from Wuhan University. I earned my Ph.D. in the Department of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente. I earned a Master's and a Bachelor's degree from the Institute of Urban Environment, Chinese Academy of Sciences, University of Chinese Academy of Sciences and School of Geographical Sciences, Fujian Normal University respectively. I am a fellow of the International Institute of Spatial Lifecourse Epidemiology(ISLE), a visiting scholar of AI 4D City (AI4City) Lab, a contributor to GeoDa Center, rgeoda, libgeoda Github organizations, and a volunteer of Sustainable Cities & Mobility.  
+ I am a postdoc fellow from Wuhan University. I earned my Ph.D. in the Department of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente. I earned a Master's and a Bachelor's degree from the Institute of Urban Environment, Chinese Academy of Sciences, University of Chinese Academy of Sciences and School of Geographical Sciences, Fujian Normal University respectively. I am a fellow of the International Institute of Spatial Lifecourse HEalth(ISLE), a visiting scholar of AI 4D City (AI4City) Lab, a contributor to GeoDa Center, rgeoda, libgeoda Github organizations, and a volunteer of Sustainable Cities & Mobility.  
   
 
 <br/>  
