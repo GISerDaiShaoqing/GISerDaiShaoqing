@@ -1,104 +1,190 @@
-## Hey 👋, I'm Shaoqing Dai  
-  
+# 👋 Hi, I'm Shaoqing Dai
 
-<a href="https://github.com/GISerDaiShaoqing" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/DaiShaoqing" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shaoqing-dai-2ab7b6182/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100076646895444" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-  
+**GIS & Environmental Data Scientist · Spatial Health · Remote Sensing · Environmental Geography**
+
+I am a researcher working at the intersection of **Geographic Information Science (GIS), spatial data science, remote sensing, environmental change, and human health**.
+
+My research focuses on developing geospatial methods and computational approaches to understand how **places, environments, and environmental processes shape human and ecosystem health**.
+
+<p align="left">
+  <a href="https://github.com/GISerDaiShaoqing">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gisersqdai.top/mycv/">
+    <img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shaoqing-dai-2ab7b6182/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/DaiShaoqing">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔬 Research Interests
+
+* 🌍 **Geographic Information Science & Spatial Data Science**
+* 🛰️ **Remote Sensing & Earth Observation**
+* 🏙️ **Urban Environment & Health Geography**
+* 🫀 **Spatial Lifecourse Health & Environmental Exposure**
+* 🌱 **Soil Ecology & Environmental Biogeochemistry**
+* 🌳 **Forest Carbon Cycling & Global Change**
+* 🤖 **Machine Learning & Geospatial Artificial Intelligence**
+* 🗺️ **Spatiotemporal Modeling & Environmental Mapping**
+
+---
+
+## 🧑‍🔬 About Me
+
+I received my **Ph.D. in Earth Observation Science** from the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands.
+
+My earlier training was in **Geographical Sciences, GIS, and geospatial engineering**, and my research has progressively expanded from urban and health geography toward environmental processes, remote sensing, and carbon cycling.
+
+I am particularly interested in connecting **multi-source geospatial observations with process-based environmental understanding**.
+
+My current work explores how spatial and temporal data can be integrated to reveal hidden environmental dynamics—from **urban exposure and human health** to **carbon cycling and ecosystem responses to global change**.
+
+---
+
+## 🚀 Research Themes
+
+### 🏙️ Urban Environment & Health
+
+* Built environment and physical activity
+* Walkability and bikeability
+* Food environment and obesity
+* Street-level environmental exposure
+* PM₂.₅ mapping and environmental epidemiology
+* Spatial lifecourse health
+
+### 🛰️ Earth Observation & Geospatial AI
+
+* Satellite remote sensing
+* Street View imagery
+* Multi-source geospatial data fusion
+* Machine learning for environmental mapping
+* Spatiotemporal modeling
+* GeoAI and computational geography
+
+### 🌱 Cabron cycling
+
+* Soil organic carbon dynamics
+* Forest carbon cycling
+* Carbon dioxide mapping
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,docker,html,js,nodejs,pytorch" />
+</p>
+
+**Geospatial & Remote Sensing**
+
+`ArcGIS` · `QGIS` · `Google Earth Engine` · `GDAL` · `Rasterio` · `GeoPandas`
+
+**Data Science & Modeling**
+
+`Python` · `R` · `PyTorch` · `Random Forest` · `Machine Learning` · `Spatial Statistics`
+
+**Visualization & Design**
+
+`Matplotlib` · `D3.js` · `Tableau` · `Adobe Illustrator` · `Adobe InDesign`
+
+**Scientific Computing**
+
+`Linux` · `Bash` · `Docker` · `LaTeX`
+
+---
+
+## 📚 Selected Research Projects
+
+### 🫀 Spatial Health & Obesogenic Environments
+
+Developing geospatial approaches to characterize the relationship between **urban environments, environmental exposures, physical activity, and obesity** using multi-source spatial data.
+
+**Methods:**
+`Street View Images` · `POI` · `GPS trajectories` · `Remote Sensing` · `Machine Learning` · `Spatial Analysis`
+
+---
+
+### 🌫️ Street-level PM₂.₅ Mapping
+
+Developing high-resolution spatiotemporal models for estimating **street-level PM₂.₅ concentrations** by integrating environmental, meteorological, satellite, and urban geospatial data.
+
+**Methods:**
+`Ensemble Random Forest` · `Land Use Regression` · `Remote Sensing` · `Spatiotemporal Modeling`
+
+---
+
+### 🏙️ Urban Environment, Carbon & Sustainability
+
+Investigating **urban environmental dynamics and sustainability** through geospatial data, remote sensing, and spatial modeling, with a particular interest in how **urbanization, land cover, human activities, and environmental processes** interact across space and time.
+
+**Focus:**
+`Urban Carbon Cycle` · `Urban Environment` · `Remote Sensing` · `Land Cover` · `Urban Climate` · `Spatial Modeling` · `Sustainable Cities`
+
+---
 
 
+## 🌍 Open Source & Geospatial Community
 
-### Glad to see you here!  
- I am a postdoctral researcher from School of Resource and Environmental Sciences, Wuhan University. I earned my Ph.D. in the Department of Earth Observation Science, Faculty of Geo-information Science and Earth Observation(ITC), University of Twente. I earned a Master's and a Bachelor's degree from the Institute of Urban Environment, Chinese Academy of Sciences, University of Chinese Academy of Sciences and School of Geographical Sciences, Fujian Normal University respectively. I am a fellow of the International Institute of Spatial Lifecourse HEalth(ISLE), a visiting scholar of AI 4D City (AI4City) Lab, a contributor to GeoDa Center, rgeoda, libgeoda Github organizations, and a volunteer of Sustainable Cities & Mobility.  
-  
+I am interested in developing and contributing to open-source tools for **GIS, spatial statistics, geospatial data science, and environmental modeling**.
 
-<br/>  
+Contributions and collaborations include work related to:
 
+* **GeoDa Center**
+* **rgeoda**
+* **libgeoda**
+* **AI 4D City**
+* **Spatial Lifecourse Health**
+* **Sustainable Cities & Mobility**
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+---
 
-- 🔭 I’m currently working on [Wuhan University](http://jszy.whu.edu.cn/jp/zh_CN/article/1397966/content/1865.htm#article)  
-  
+## 📊 GitHub Stats
 
-- ❓ Ask me about anything related to GIS and health-related technologies  
-  
+<p align="center">
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
+</p>
 
-- 🌍 Personal website: [Homepage](https://gisersqdai.top/mycv/)  
-  
+---
 
-- ⚡ Contact me: dsq1993qingge@163.com  
+## 📌 Featured Repositories
 
+Some of my repositories explore topics including:
 
-</td><td valign="top" width="50%">
+* 🗺️ Urban GIS & spatial analysis
+* 🌍 Geospatial data science
+* 🛰️ Remote sensing
+* 🤖 Machine learning
+* 📊 R / Python spatial analysis
+* 🏙️ Urban environment and health
 
-<div align="center">
-<img src="https://5b0988e595225.cdn.sohucs.com/images/20200114/ed41739e6ccb4576877c4b05895e5ba5.gif" align="center" style="width: 100%" />
-</div>  
+👉 Explore all repositories on my **[GitHub profile](https://github.com/GISerDaiShaoqing)**.
 
+---
 
-</td></tr></table>  
+## 🌐 Find Me
 
-<br/>  
+| Platform             | Link                                                                |
+| -------------------- | ------------------------------------------------------------------- |
+| 🌐 Personal Homepage | [gisersqdai.top](https://gisersqdai.top/mycv/)                      |
+| 💻 GitHub            | [GISerDaiShaoqing](https://github.com/GISerDaiShaoqing)             |
+| 🔗 LinkedIn          | [Shaoqing Dai](https://www.linkedin.com/in/shaoqing-dai-2ab7b6182/) |
+| 𝕏 X / Twitter       | [@DaiShaoqing](https://twitter.com/DaiShaoqing)                     |
+| 📧 Email             | [dsq1993qingge@163.com](mailto:dsq1993qingge@163.com)               |
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-</div>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GISerDaiShaoqing&style=flat-square&color=blue" />
+</p>
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GISerDaiShaoqing&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=GISerDaiShaoqing&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <i>Exploring places, environments, and health through geospatial data.</i>
+</p>
