@@ -38,7 +38,7 @@ My research focuses on developing geospatial methods and computational approache
 
 ## 🧑‍🔬 About Me
 
-I received my **Ph.D. in Earth Observation Science** from the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands.
+I received my **Ph.D. in Earth Observation Science** from the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands. I earned a Master's and a Bachelor's degree from the Institute of Urban Environment, Chinese Academy of Sciences, University of Chinese Academy of Sciences and School of Geographical Sciences, Fujian Normal University respectively.
 
 My earlier training was in **Geographical Sciences, GIS, and geospatial engineering**, and my research has progressively expanded from urban and health geography toward environmental processes, remote sensing, and carbon cycling.
 
