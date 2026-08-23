@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaoqing Dai
 
-**GIS & Environmental Data Scientist · Spatial Health · Remote Sensing · Environmental Geography**
+**Geospatial Scientist · Environmental Health · Remote Sensing · GeoAI**
 
 I am a researcher working at the intersection of **Geographic Information Science (GIS), spatial data science, remote sensing, environmental change, and human health**.
 
@@ -25,18 +25,21 @@ My research focuses on developing geospatial methods and computational approache
 
 ## 🔬 Research Interests
 
-* 🌍 **Geographic Information Science & Spatial Data Science**
-* 🛰️ **Remote Sensing & Earth Observation**
-* 🏙️ **Urban Environment & Health Geography**
-* 🫀 **Spatial Lifecourse Health & Environmental Exposure**
-* 🌱 **Soil Ecology & Environmental Biogeochemistry**
-* 🌳 **Forest Carbon Cycling & Global Change**
-* 🤖 **Machine Learning & Geospatial Artificial Intelligence**
-* 🗺️ **Spatiotemporal Modeling & Environmental Mapping**
+* 🌍 **Health Geography**
+* 🛰️ **Earth Observation**
+* 🏙️ **Urban Visual Intelligence**
+* 🫀 **Spatial Lifecourse Health**
+* 🌳 **Spatial Statistics**
+* 🤖 **GeoAI**
+* 🗺️ **Spatial-Temporal Big Data**
 
 ---
 
 ## 🧑‍🔬 About Me
+
+<table>
+<tr>
+<td valign="top" width="65%">
 
 I received my **Ph.D. in Earth Observation Science** from the Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Netherlands. I earned a Master's and a Bachelor's degree from the Institute of Urban Environment, Chinese Academy of Sciences, University of Chinese Academy of Sciences and School of Geographical Sciences, Fujian Normal University respectively.
 
@@ -44,7 +47,17 @@ My earlier training was in **Geographical Sciences, GIS, and geospatial engineer
 
 I am particularly interested in connecting **multi-source geospatial observations with process-based environmental understanding**.
 
-My current work explores how spatial and temporal data can be integrated to reveal hidden environmental dynamics—from **urban exposure and human health** to **carbon cycling and ecosystem responses to global change**.
+</td>
+
+<td valign="top" width="35%">
+
+<div align="center">
+<img src="https://5b0988e595225.cdn.sohucs.com/images/20200114/ed41739e6ccb4576877c4b05895e5ba5.gif" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -56,22 +69,19 @@ My current work explores how spatial and temporal data can be integrated to reve
 * Walkability and bikeability
 * Food environment and obesity
 * Street-level environmental exposure
-* PM₂.₅ mapping and environmental epidemiology
 * Spatial lifecourse health
 
-### 🛰️ Earth Observation & Geospatial AI
+### 🛰️ Earth Observation & GeoAI
 
-* Satellite remote sensing
+* Earth observatiohn
 * Street View imagery
-* Multi-source geospatial data fusion
-* Machine learning for environmental mapping
-* Spatiotemporal modeling
-* GeoAI and computational geography
+* Spatial Statistics
+* GeoAI
 
-### 🌱 Cabron cycling
+### 🌱 Urban Cabron cycle
 
 * Soil organic carbon dynamics
-* Forest carbon cycling
+* Forest carbon cycle
 * Carbon dioxide mapping
 
 ---
@@ -111,14 +121,6 @@ Developing geospatial approaches to characterize the relationship between **urba
 
 ---
 
-### 🌫️ Street-level PM₂.₅ Mapping
-
-Developing high-resolution spatiotemporal models for estimating **street-level PM₂.₅ concentrations** by integrating environmental, meteorological, satellite, and urban geospatial data.
-
-**Methods:**
-`Ensemble Random Forest` · `Land Use Regression` · `Remote Sensing` · `Spatiotemporal Modeling`
-
----
 
 ### 🏙️ Urban Environment, Carbon & Sustainability
 
@@ -140,7 +142,6 @@ Contributions and collaborations include work related to:
 * **rgeoda**
 * **libgeoda**
 * **AI 4D City**
-* **Spatial Lifecourse Health**
 * **Sustainable Cities & Mobility**
 
 ---
