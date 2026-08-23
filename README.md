@@ -154,21 +154,6 @@ Contributions and collaborations include work related to:
 
 ---
 
-## 📌 Featured Repositories
-
-Some of my repositories explore topics including:
-
-* 🗺️ Urban GIS & spatial analysis
-* 🌍 Geospatial data science
-* 🛰️ Remote sensing
-* 🤖 Machine learning
-* 📊 R / Python spatial analysis
-* 🏙️ Urban environment and health
-
-👉 Explore all repositories on my **[GitHub profile](https://github.com/GISerDaiShaoqing)**.
-
----
-
 ## 🌐 Find Me
 
 | Platform             | Link                                                                |
